@@ -1,0 +1,17 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-color: black;
+    color: rgb(168, 31, 31);
+    text-align: justify;
+}
+
+p {
+    color: black;
+    font-style: italic;
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(224, 9, 9);
+}

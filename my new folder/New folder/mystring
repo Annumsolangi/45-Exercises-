@@ -1,0 +1,23 @@
+//string data type:
+console.log (" i am a student of i.t course");
+console.log (" my age is 23 ");
+
+//number data type:
+console.log (100);
+
+
+
+//boolean data type:
+
+console.log (true);
+console.log(false);
+console.log (20<10);
+
+
+
+//variable declaration
+
+let box1= 'ali';
+ let box2 =100;
+ let box3='zain;'
+console.log ( typeof 100)
